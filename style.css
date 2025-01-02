@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    font-size: 10px;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+   width: 500px;
+   padding: 30px;
+   border-radius: 10px;
+   text-align: center;
+}
+
+h4{
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: white;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+textarea{
+    width: 100%;
+    padding: 10px;
+}
+
+.btn-enviar{
+    border: none;
+    background-color: yellow;
+    color: black;
+    width: 200px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.btn-enviar:hover{
+    background-color: #333;
+}
+img{
+    width: 300px;
+}
