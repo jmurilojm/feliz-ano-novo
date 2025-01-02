@@ -53,6 +53,9 @@ textarea{
 }
 img{
     width: 300px;
+    border: 2px solid yellow;
+    border-radius: 20px;
+    box-shadow: 0 0 5px gray;
 }
 #demo{
     color: white;
