@@ -48,6 +48,8 @@ textarea{
 }
 .btn-enviar:hover{
     background-color: #333;
+    color: yellow;
+    box-shadow: 3px 3px 5px gray;
 }
 img{
     width: 300px;
